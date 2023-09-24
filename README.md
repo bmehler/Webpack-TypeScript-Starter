@@ -14,6 +14,8 @@ npm start
 - TypeScript 5
 - Jest
 - Eslint
+- A simple Calculation Example with TypeScript
+- A simple User Example with TypeScript object orientated
 
 ## Commands in package.json
 ```bash
