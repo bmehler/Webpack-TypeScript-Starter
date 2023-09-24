@@ -16,10 +16,10 @@ npm start
 - Eslint
 
 ## Commands in package.json
-```json
-npm start => "start": "webpack serve",
-npm build => "build": "webpack",
-npm test =>  "test": "jest",
-npm test-coverage => "test-coverage": "jest --coverage"
+```bash
+npm start
+npm build
+npm test
+npm test-coverage
 ```
 Have fun!
