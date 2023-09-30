@@ -8,7 +8,8 @@
     "prestart": "npm run build",
     "build": "webpack",
     "test": "jest",
-    "test-coverage": "jest --coverage"
+    "test-coverage": "jest --coverage",
+    "eslint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "keywords": [
     "Typescript",
