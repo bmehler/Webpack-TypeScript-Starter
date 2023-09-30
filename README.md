@@ -1,5 +1,5 @@
 ![jest test](https://github.com/bmehler/Webpack-TypeScript-Starter/actions/workflows/main.yml/badge.svg?event=push)
-<!--![jest coverage test](https://github.com/bmehler/Webpack-TypeScript-Starter/actions/workflows/main.yml/coverage.svg?event=push)-->
+![jest coverage test](https://github.com/bmehler/Webpack-TypeScript-Starter/actions/workflows/main.yml/badge.svg?event=push)
 # Webpack Typescript Starter Boilerplate
 This is a starter boilerplate template for typescript development. It contains the <strong>Webpack Dev Server</strong>,<strong>TypeScript</strong>, and testing with <strong>Jest</strong>.
 
